@@ -1,0 +1,13 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=ru.auroraos.first_step
+Exec=/usr/bin/ru.auroraos.first_step
+Name=first step
+Name[ru]=first step
+
+[X-Application]
+Permissions=AccessSecurityLog;LogSecurityEvents;Sensors;SecureStorage;PushNotifications;DeviceInfo;Audio;Bluetooth;Camera;Internet;Location;MediaIndexing;Microphone;NFC;RemovableMedia;UserDirs;WebView
+OrganizationName=ru.auroraos
+ApplicationName=first_step
+ExecDBus=/usr/bin/ru.auroraos.first_step
